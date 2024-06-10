@@ -37,8 +37,8 @@ This is a simple Task Management Application that allows users to create, read, 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/task-manager.git
-    cd task-manager
+    git clone https://github.com/yourusername/PedalStart.git
+    cd PedalStart
     ```
 
 2. **Backend Setup:**
@@ -67,7 +67,7 @@ This is a simple Task Management Application that allows users to create, read, 
     - Start the backend server:
 
         ```sh
-        node server.js
+        node index.js
         ```
 
 3. **Frontend Setup:**
